@@ -1,2 +1,4 @@
 # Spring AI Service with Open AI integration
-"# springai-openai-integration" 
+
+## use the swagger UI URL
+###  http://localhost:8080/swagger-ui/index.html   
